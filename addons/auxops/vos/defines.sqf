@@ -1,0 +1,5 @@
+#define RADIUS 1000
+
+#define OWNED_SEARCH_RADIUS 1000
+#define BASE_RADIUS 30
+#define VEHICLE_RADIUS 10
